@@ -1,0 +1,23 @@
+As mentioned in the preceding page, GeoEngine is a fan engine currently being developed by me, Alxei200, for Game Maker 7/8. I will go into detail about all of the features currently present in the engine, and the features planned on being added or requested to be added afterwards.
+
+CURRENT FEATURES
+
+The only fully functioning gamemode currently is the block gamemode. The block gamemode controls relatively the same as in Geometry Dash. It moves right at a constant speed and jumps ~3 blocks in height upon left clicking, pressing up arrow, or space bar.
+
+The game features no wall textures due to the creator (me) feeling that the addition of wall textures would take away from the nature of the engine. However, there are 2 different types of walls.
+
+The first kind is the blue wall, which can be touched on the top side, but cannot be touched on any other side. The bottom and left side will destroy the player if touched, and the right side is physically impossible to touch.
+
+The second type is the green wall, which cannot be touched at all. One may argue that these are the same as spikes, but if a developer added textures to the green walls, they may seem touchable, changing the nature of the game. If this developer added textures that looked similar, but still different then the safe blue walls, they could add seemingly touchable walls that could trick a unsuspecting player, or make a player have to make quick decisions while platforming.
+
+The next feature is spikes. All of the spikes have one characteristic in common: They all destroy the player on touch. Let’s go into detail about the differences of the spikes.
+
+The first spike is simple: It is stationary, and kills the player. The second spike is the mini spike, which is essentially the same, but with a difference in size. The next spike is the wide spike, which follows in the footsteps of the two before it. The main difference is that this spike takes up the space of 2 normal spikes, without having to place 2 spikes.
+
+Those three spikes are the most simple to understand compared to the next 2. The moving spike is predictable if you know how it works. It moves left to right, reversing its direction about every half second. This makes it the most complex spike so far. It is very similar to the position spike, which follows the same idea of it moving, but it simply moves between two points instantaneously. This spike makes the position change about every second.
+
+The game also features orbs, which have an effect on the player upon clicking while in the orb’s radius. The most simple 3 orbs to explain are the yellow, magenta, and red orbs. I’ll explain them in the next paragraph.
+
+The yellow orb’s effect is making the player double jump. The magenta orb has essentially the same effect, but the double jump is significantly weaker. The red orb is also the same as the yellow orb, but the jump you get from the red orb is much more powerful.
+
+The next few orbs are the cyan, green, and blue orb. The cyan orb makes the player’s gravitational pull reverse. The green orb is basically a combination of the cyan and yellow orb, having the player reverse gravity and make a double jump. The blue orb is the oddball out of every other orb. It sends the player down/up depending on the gravity. One way to see it is the opposite of the cyan orb.
