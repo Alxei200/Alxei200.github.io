@@ -21,3 +21,24 @@ The game also features orbs, which have an effect on the player upon clicking wh
 The yellow orb’s effect is making the player double jump. The magenta orb has essentially the same effect, but the double jump is significantly weaker. The red orb is also the same as the yellow orb, but the jump you get from the red orb is much more powerful.
 
 The next few orbs are the cyan, green, and blue orb. The cyan orb makes the player’s gravitational pull reverse. The green orb is basically a combination of the cyan and yellow orb, having the player reverse gravity and make a double jump. The blue orb is the oddball out of every other orb. It sends the player down/up depending on the gravity. One way to see it is the opposite of the cyan orb.
+
+The next feature is pads. Pads are almost exactly the same as rings, but you don’t have to click. Simply touching them is enough to trigger the effect. Some colours even have the same effects from rings to orbs, such as yellow pads, cyan pads, magenta pads, and red pads.
+
+The final feature to talk about are speed changers. The default speed the player moves at is 1x, which is cyan speed. Here is a list of the colours of speed and their power.
+Blue - 0.25x
+Yellow - 0.5x
+Cyan - 1x
+Green - 2x
+Magenta - 3x
+Red - 4x
+
+REQUESTED/PLANNED FEATURES
+
+I’m not going to go into nearly as much detail into these, as they haven’t been implemented yet. They will be displayed in list form here:
+
+* UFO gamemode - Click to jump, but you don’t need to click while touching a wall to jump.
+* Wave gamemode - Click to move upwards at a diagonal angle, and release to move downwards at a diagonal angle. Also dies on every wall currently added.
+* Ball gamemode - Click to reverse gravity. You can only reverse gravity while on the ground.
+* Heli gamemode - Click to reverse gravity. You can reverse gravity while airborne.
+
+* Wave walls - Wave and Heli can collide with this wall.
