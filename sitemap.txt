@@ -5,3 +5,41 @@ index.html:
     gdfaq.html
   generators.html
   spelunky.html
+  gamegenie.html
+  meleerush.html:
+    rush-drm.html
+    rush-m.html
+    rush-l.html
+    rush-b.html
+    rush-p.html
+    rush-y.html
+    rush-dk.html
+    rush-cf.html
+    rush-gd.html
+    rush-fc.html
+    rush-fox.html
+    rush-n.html
+    rush-ic.html
+    rush-s.html
+    rush-z.html
+    rush-shk.html
+    rush-lnk.html
+    rush-yl.html
+    rush-k.html
+    rush-pi.html
+    rush-pk.html
+    rush-mew.html
+    rush-gw.html
+    rush-jiggs.html
+    rush-min.html
+    rush-roy.html
+  projects.html:
+    gm7mazegame.html
+    gm7shooter.html
+    gm7platformer.html
+    flashstuff.html
+    vbcalculator.html
+    gm7geodash.html
+    gm7ocuventure.html
+    
+mystyles.css
