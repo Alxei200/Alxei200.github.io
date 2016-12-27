@@ -1,1 +1,7 @@
 index.html:
+  gd.html:
+    mission-cata.html
+    demons.html
+    gdfaq.html
+  generators.html
+  spelunky.html
