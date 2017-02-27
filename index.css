@@ -1,0 +1,53 @@
+body {
+	background-color: black;
+	color: green;
+	font-family: Courier New;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	color: lightgreen;
+}
+
+#title {
+	text-align: left;
+	text-decoration: underline;
+	font-size: 22pt;
+	
+	padding-top: 16px;
+	padding-left: 96px;
+}
+
+#icon {
+	float: left;
+	padding-right: 8px;
+	padding-bottom: 12px;
+}
+
+#link {
+	float: left;
+	font-size: 18pt;
+	padding-bottom: 75%;
+}
+
+#info {
+	text-align: left;
+	font-size: 16pt;
+	margin-left: 142px;
+}
+
+p {
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.hline {
+	border-bottom: thick solid green;
+}
+
+.vline {
+	border-right: thick solid green;
+}
