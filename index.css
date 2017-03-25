@@ -51,3 +51,9 @@ p {
 .vline {
 	border-right: thick solid green;
 }
+
+#veryeasy { color: purple }
+#easy { color: blue }
+#medium { color: green }
+#hard { color: orange }
+#insane { color: red }
